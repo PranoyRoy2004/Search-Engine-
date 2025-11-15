@@ -1,0 +1,6 @@
+exa-py
+requests
+python-dotenv
+rich
+tqdm
+beautifulsoup4
